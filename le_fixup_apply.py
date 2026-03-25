@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# License: MIT License (https://opensource.org/licenses/MIT)
 """
 DOS LE (Linear Executable) Fixup/Relocation Applier
 ===================================================
